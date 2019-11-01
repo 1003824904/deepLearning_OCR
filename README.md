@@ -1,5 +1,9 @@
 # deepLearning_OCR
 Deep Learning on 身份证识别    
+
+https://github.com/still-wait/deepLearning_OCR
+https://github.com/tianzhi0549/CTPN
+
 ## Get dataset
 >deep_ocr_make_caffe_dataset --out_caffe_dir /workspace/caffe_dataset_lower_eng \
                    --font_dir /opt/deep_ocr/data/fonts/chinese_fonts \
